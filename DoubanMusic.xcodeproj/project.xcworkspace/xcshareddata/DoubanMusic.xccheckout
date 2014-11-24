@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>65A90453-19C3-4F6D-B6D6-E5BE83E75980</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DoubanMusic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A0254CA6456881BAD1D80942CD39B6E47CD26D9</key>
+		<string>https://github.com/sinofake/DoubanMusic</string>
+		<key>E11EC9A3F2C112775E6A4BE77D4B8A2207A6AA23</key>
+		<string>https://github.com/sinofake/DoubanMusic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DoubanMusic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A0254CA6456881BAD1D80942CD39B6E47CD26D9</key>
+		<string>../..</string>
+		<key>E11EC9A3F2C112775E6A4BE77D4B8A2207A6AA23</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sinofake/DoubanMusic</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A0254CA6456881BAD1D80942CD39B6E47CD26D9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E11EC9A3F2C112775E6A4BE77D4B8A2207A6AA23</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A0254CA6456881BAD1D80942CD39B6E47CD26D9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DoubanMusic</string>
+		</dict>
+	</array>
+</dict>
+</plist>

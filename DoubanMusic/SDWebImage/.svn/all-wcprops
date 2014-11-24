@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageDownloader.m
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/LICENSE
+END
+SDWebImageManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageManagerDelegate.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageDecoder.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDImageCache.h
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageManager.h
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageDecoder.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDImageCache.m
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/README.md
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/UIImageView+WebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageCompat.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/UIButton+WebCache.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/UIImageView+WebCache.m
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageDownloaderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageDownloaderDelegate.h
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImagePrefetcher.m
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDWebImageDownloader.h
+END
+SDImageCacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/1000phone/!svn/ver/657/iOS/trunk/iOS/Network/douban/codes/00-%E7%BD%91%E7%BB%9C0-JSON%E8%A7%A3%E6%9E%90/0-DoubanBoo/SDWebImage/SDImageCacheDelegate.h
+END
